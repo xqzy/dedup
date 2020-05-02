@@ -36,4 +36,4 @@ done
 
 echo directory $1
 
-find $1 -type f -printf "'%s','%f','%h'\n"
+find $1 -type f -printf "'%s','%f','%h'\n" 
